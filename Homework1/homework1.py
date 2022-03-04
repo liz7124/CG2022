@@ -2,6 +2,8 @@
 Modified on Feb 20 2020
 @author: lbg@dongseo.ac.kr 
 """
+"Homework 1 - Draw Polygon"
+"Edited by: Elizabeth Nathania Witanto"
 
 import pygame
 from sys import exit
